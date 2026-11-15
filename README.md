@@ -4,12 +4,12 @@ I'm **Shreeya Shrestha**, a final-year **Computer Engineering** student at Kathm
 
 I work mostly on **AI/ML** — Nepali-language NLP, document extraction, and computer vision systems. I like problems where the tooling doesn't exist yet.
 
-- 🔭 Currently working on **a Nepali document extractor (OCR + LLM → structured fields)**
-- 🌱 Learning **deep learning and model deployment**
-- 💬 Ask me about **Python, PyTorch, and NLP for low-resource languages**
-- 📫 Reach me at **[your email]** · [LinkedIn](https://linkedin.com/in/[handle])
+- Currently working on **a Nepali document extractor (OCR + LLM → structured fields)**
+- Learning **deep learning and model deployment**
+- Ask me about **Python, PyTorch, and NLP for low-resource languages**
+- Reach me at **shreeya12shrestha@gmail.com** · [LinkedIn](https://www.linkedin.com/in/shreeya-shrestha-353487344?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
-### 🛠️ Skills
+### Skills
 
 **Languages**
 
